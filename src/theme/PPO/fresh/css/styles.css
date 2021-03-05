@@ -1,0 +1,12 @@
+@import "./_navigation.scss";
+
+@import "tailwindcss/base";
+/* @import "./custom-base-styles.css"; */
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+/* @import "./custom-utilities.css"; */
+
+
+body {
+  background: url('../images/bg.png');
+}

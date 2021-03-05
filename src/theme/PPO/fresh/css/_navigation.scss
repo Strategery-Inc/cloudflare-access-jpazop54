@@ -1,0 +1,15 @@
+
+.navigation {
+
+  font-family: 'Oswald', sans-serif;
+
+  a {
+    font-size: 18px;
+    text-transform: uppercase;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+}
