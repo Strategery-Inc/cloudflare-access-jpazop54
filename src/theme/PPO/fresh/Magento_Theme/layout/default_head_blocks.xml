@@ -1,0 +1,7 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <head>
+        <css src="css/app.css" rel="stylesheet" type="text/css"  />
+        <!-- <link src_type="url" type="text/css" src="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet" />
+        <link src_type="url" type="text/css" src="css/app.css" rel="stylesheet" />   -->
+    </head>
+</page>
